@@ -1,0 +1,54 @@
+body{
+	font-family: sans-serif;
+	color: tomato;
+	background-color: #f4f4f4;
+	background-image: url("images/wallhaven.png");
+}
+body p{
+	margin-top: 10;
+}
+body h1{
+	padding-top: 10px;
+	font-size: 100px;
+	color: tomato;
+	line-height: 0.4;
+	text-align: center;
+	text-shadow: 5px 0px white;
+	text-shadow: -5px -5px 3px darkgray,-8px -8px 3px lightcoral;
+}
+body p{
+	color: #b3e6ff;
+	margin-left: 50px;
+	margin-bottom: 5px;
+
+	
+}
+a:hover{
+	color:red;
+}
+.navbar{
+	border-radius: 0px 0px 100px 100px;
+	background-color: #b3e6ff;
+	box-shadow: 0px 0px 16px 7px #888888;
+
+}
+.navbar.a{
+	color: crimson;
+}
+.navbar-brand{
+	color: blue;
+}
+.panal1{
+	margin-top: 25px;
+	padding: auto;
+	box-shadow: -3px -3px 5px #888888;
+	background-image: url(sunset.jpg);
+	color: white;
+}
+.panal2{
+	margin-top: 25px;
+	padding: auto;
+	box-shadow: +3px -3px 5px #888888;
+	background-image: url("sunset.jpg");
+	color: white;
+}
